@@ -1,0 +1,2 @@
+Prefix plugins/PERMANOVA/example/
+Plugin PERMANOVA inputfile filenames.txt outputfile none

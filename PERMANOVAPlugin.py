@@ -30,4 +30,4 @@ class PERMANOVAPlugin:
 		
 
 	def output(self, filename):
-		print self.result
+		print(self.result)

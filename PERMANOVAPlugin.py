@@ -1,3 +1,5 @@
+import numpy
+numpy.random.seed(1234)
 import skbio
 import csv
 

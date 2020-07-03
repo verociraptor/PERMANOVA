@@ -1,8 +1,10 @@
 # PERMANOVA
 # Language: Python
 # Input file: TXT file (of filenames used)
-# Ouput file: None 
-# Tested with: PluMA 1.0, Python 2.7
+# Output file: None 
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0, skbio==0.5.5, csv==1.0.0
+
 PluMA plugins that calculates a PERMANOVA test for two or more groups of samples based on a categorical factor. 
 
 The plugin takes into input a txt file listing the filenames to be used, including a dissimilarity matrix in CSV format and a
